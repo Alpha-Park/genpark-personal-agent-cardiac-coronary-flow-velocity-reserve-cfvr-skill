@@ -1,0 +1,24 @@
+{
+  "name": "genpark-personal-agent-cardiac-coronary-flow-velocity-reserve-cfvr-skill",
+  "version": "1.0.0",
+  "description": "Calculates Coronary Flow Velocity Reserve (CFVR = V_hyper / V_rest) and Rate-Pressure Product (RPP) to assess coronary microvascular dysfunction (CMD / INOCA).",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "cardiology",
+    "hemodynamics",
+    "cfvr",
+    "coronary-flow",
+    "microcirculation",
+    "cmd",
+    "inoca",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
